@@ -1,6 +1,5 @@
 import './App.css';
 import Graph from "./components/Graph";
-import { Doughnut } from "react-chartjs-2";
 import Form from "./components/Form";
 
 function App() {
